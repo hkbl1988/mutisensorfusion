@@ -1,0 +1,17 @@
+std_msgs/Header header
+bool update
+float64 lon
+float64 lat
+float64 alt
+float64 yaw
+float64 vel
+float64 trk
+float64 utc	
+float64 hdop
+float64 age
+float64 baselen
+float64 yawstd
+uint8 status
+uint8 satenum
+uint8 yawstatus
+uint8 yawvalid

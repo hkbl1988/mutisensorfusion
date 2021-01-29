@@ -1,0 +1,26 @@
+std_msgs/Header header
+float64 longitude
+float64 latitude
+float64 xg
+float64 yg
+float64 zg
+float64 roll
+float64 pitch
+float64 yaw
+float64 odomspeed
+float64 msfspeed
+string mode
+string status
+string vehicle
+float64 drtime
+float64 yawerror
+float64 kfactor
+float64 ptherror
+int32[3] initgbias
+int32[3] estgbias
+int32[3] estabias
+int32[4] offset
+int32[4] lidarcnt
+int32[4] gnsscnt
+int32[3] odomcnt
+
